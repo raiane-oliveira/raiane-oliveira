@@ -1,8 +1,6 @@
-## What's up? I'm Raiane Oliveira! 👋
+## Hey! I'm Raiane Oliveira, a self-taught student of Front-end Development
 
-- 🔭 I’m currently working on my final project of the course CS50's Introduction to Computer Science from Harvard University
-- 🌱 I’m learning JavaScript, CSS and HTML, Flask framework, Python and SQL (with SQLite).
-- 😄 Pronouns: she/her
+I’m currently working on my final project of the course CS50's Introduction to Computer Science from Harvard University and I'm learning the following languages: HTML, CSS, JavaScript, Python, Flask framework and SQL (with SQLite).
 
 <div align="center">
   <a target="_blank" href="https://github.com/raiane-oliveira">
@@ -18,6 +16,7 @@
     <img align="center" alt="Flask" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
     <img align="center" alt="C" height="30" width="40"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    <img align="right" alt="raiane-picture" height="150" style="border-radius:20px;" src"file:///C:/Users/books/OneDrive/Imagens/Exportação%20sem%20título/1640388665635_20211225_092500_388%20(2).jpg"/>
 </div>
 
 ## 
