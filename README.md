@@ -1,6 +1,6 @@
-## Hey! I'm Raiane Oliveira, a Front-end Developer
+## Hey! I'm Raiane Oliveira, a Programming student!
 
-I’m currently working on my final project of the course CS50's Introduction to Computer Science from Harvard University and I'm learning the following languages: HTML, CSS, JavaScript, Python, Flask framework and SQL (with SQLite).
+I'm on the journey to become a front-end and mobile developer.
 
 <div align="center">
   <a target="_blank" href="https://github.com/raiane-oliveira">
