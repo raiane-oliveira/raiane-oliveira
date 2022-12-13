@@ -16,7 +16,7 @@ I’m currently working on my final project of the course CS50's Introduction to
     <img align="center" alt="Flask" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
     <img align="center" alt="C" height="30" width="40"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <img align="right" alt="raiane-picture" height="150" style="border-radius:20px;" src"file:///C:/Users/books/OneDrive/Imagens/Exportação%20sem%20título/1640388665635_20211225_092500_388%20(2).jpg"/>
+    
 </div>
 
 ## 
