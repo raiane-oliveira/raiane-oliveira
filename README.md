@@ -16,7 +16,7 @@ I'm on the journey to become a front-end and mobile developer.
     <img align="center" alt="Flask" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
     <img align="center" alt="C" height="30" width="40"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <img align="right" alt="Raiane picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100815627/207210178-5ccf519b-c074-4c56-8b6e-692b4bfaf440.jpg"/>
+    <img align="right" alt="Steven universe picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100815627/207223249-bc0479b1-edc9-490d-b7cd-5a6b4ac8483c.png"/>
 </div>
 
 
