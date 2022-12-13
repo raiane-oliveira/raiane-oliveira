@@ -1,4 +1,4 @@
-## Hey! I'm Raiane Oliveira, a self-taught student of Front-end Development
+## Hey! I'm Raiane Oliveira, a Front-end Developer
 
 I’m currently working on my final project of the course CS50's Introduction to Computer Science from Harvard University and I'm learning the following languages: HTML, CSS, JavaScript, Python, Flask framework and SQL (with SQLite).
 
