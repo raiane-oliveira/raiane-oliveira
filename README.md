@@ -1,4 +1,4 @@
-## Hey! I'm Raiane Oliveira, a Programming student!
+## Hey! I'm Raiane Oliveira!
 
 I'm on the journey to become a front-end and mobile developer.
 
