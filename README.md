@@ -13,8 +13,6 @@ I'm on the journey to become a front-end and mobile developer.
     <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Flask" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img align="center" alt="C" height="30" width="40"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
     <img align="right" alt="Steven universe picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100815627/207223249-bc0479b1-edc9-490d-b7cd-5a6b4ac8483c.png"/>
 </div>
