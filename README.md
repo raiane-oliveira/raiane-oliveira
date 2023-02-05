@@ -6,7 +6,7 @@
 👩‍💻 Front-end developer passionate about coding and solving real-world problems! <br>
   - Studying JavaScript and HTML accessibility <br>
 
-📩 Please, feel free to send me an email or a message on Linkedin if you want to chat about Front-end development or programming in general!<br>
+📩 Please, feel free to send me an email or a message on Linkedin if you want to chat about programming!<br>
 ☎️ I'm always open to feedbacks and constructive criticism that can help me reach the next level!
 
 <div align="center">
