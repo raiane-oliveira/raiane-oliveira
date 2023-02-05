@@ -1,6 +1,10 @@
-## Hi! I'm Raiane Oliveira!
+# Hi! I'm Raiane Oliveira!
 
-I'm a Front-end Developer 🤓
+>“Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+
+👩‍💻 Front-end developer passionate about coding and solving real-world problems! <br>
+📩 Please, feel free to send me an email or a message on Linkedin if you want to chat about Front-end development or programming in general!<br>
+☎️ I'm always open to feedbacks and constructive criticism that can help me reach the next level!
 
 <div align="center">
   <a target="_blank" href="https://github.com/raiane-oliveira">
@@ -21,7 +25,7 @@ I'm a Front-end Developer 🤓
 ## 
 
 <div>
-  <a href="https://www.linkedin.com/in/raiane-oliveira-213478257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raiane-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:raiane.oliveira404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
