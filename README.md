@@ -1,13 +1,13 @@
-# Hi! I'm Raiane Oliveira!
+# Oi! Eu sou Raiane!
 
 >“Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 <hr> 
 
-👩‍💻 Front-end developer passionate about coding and solving real-world problems! <br>
-  - Studying JavaScript and HTML accessibility <br>
+👩‍💻 Desenvolvedora Front-end apaixonada por programação e resolver problemas reais com tecnologia! <br>
+  - Estudando JavaScript e, futuramente, React <br>
 
-📩 Please, feel free to send me an email or a message on Linkedin if you want to chat about programming!<br>
-☎️ I'm always open to feedbacks and constructive criticism that can help me reach the next level!
+📩 Por favor, sinta-se livre para me mandar um email ou uma mensagem no Linkedin se você quiser bater um papo sobre programação!<br>
+☎️ Estou sempre aberta a feedbacks e críticas construtivas que podem me ajudar a alcançar o próximo nível!
 
 <div align="center">
   <a target="_blank" href="https://github.com/raiane-oliveira">
