@@ -21,16 +21,6 @@
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="SQLite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <img align="right" alt="Steven universe picture" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100815627/207223249-bc0479b1-edc9-490d-b7cd-5a6b4ac8483c.png"/>
 </div>
 
-
-## 
-
-<div>
-  <a href="https://www.linkedin.com/in/raiane-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:raiane.oliveira404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-![Snake animation](https://github.com/raiane-oliveira/raiane-oliveira/blob/output/github-contribution-grid-snake.svg)
-
+##
