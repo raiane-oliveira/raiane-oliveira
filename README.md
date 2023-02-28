@@ -4,7 +4,6 @@
 <hr> 
 
 👩‍💻 Desenvolvedora Front-end apaixonada por programação e resolver problemas reais com tecnologia! <br>
-  - Estudando JavaScript e NodeJS. Futuramente, React e Typescript <br>
 
 📩 Por favor, sinta-se livre para me mandar um <a href="mailto:raiane.oliveira404@gmail.com">E-mail</a> ou uma mensagem no [LinkedIn](https://www.linkedin.com/in/raiane-oliveira-dev/) se você quiser bater um papo sobre essa área!<br>
 ☎️ Estou sempre aberta a feedbacks e críticas construtivas que podem me ajudar a alcançar o próximo nível!
