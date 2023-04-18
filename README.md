@@ -16,12 +16,10 @@
 
   ***
   
-<div align="center">
-    <img title="React" alt="React icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img title="TypeScript" alt="TypeScript icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img title="Python" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img title="SQLite" alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img height="40" src="https://skillicons.dev/icons?i=react,ts,js,py,sqlite,django" />
+  </a>
+</p>
   
 ##
