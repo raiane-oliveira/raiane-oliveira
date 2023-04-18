@@ -14,7 +14,9 @@
   <img height="180em" src="https://github-personal-readme-stats.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=16&theme=radical&border_radius=10"/>
 </div>
 
-<div align="center"><br>
+  ***
+  
+<div align="center">
     <img title="React" alt="React icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img title="TypeScript" alt="TypeScript icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
