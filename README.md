@@ -18,7 +18,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=react,ts,js,py,sqlite,django" />
+    <img height="40" src="https://skillicons.dev/icons?i=react,ts,js,py,django,sqlite" />
   </a>
 </p>
   
