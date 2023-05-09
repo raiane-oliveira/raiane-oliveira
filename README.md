@@ -17,7 +17,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="100" src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,py,linux&perline=3" />
+    <img height="40" src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
   </a>
 </p>
   
