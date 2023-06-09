@@ -1,11 +1,11 @@
-# Oi! Eu sou Raiane!
+# Hey, I'm Raiane!
 
 >“Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 <hr> 
 
-👩‍💻 Desenvolvedora Front-end apaixonada por programação e resolver problemas reais com tecnologia!<br>
-📩 Por favor, sinta-se livre para me mandar um <a href="mailto:raiane.oliveira404@gmail.com">E-mail</a> ou uma mensagem no [LinkedIn](https://www.linkedin.com/in/raiane-oliveira-dev/) se você quiser bater um papo sobre essa área!<br>
-☎️ Estou sempre aberta a feedbacks e críticas construtivas que podem me ajudar a alcançar o próximo nível!
+👩‍💻 Front-end developer passionate about coding and solving real-world problems with technology!<br>
+📩 Please fell free to send me an <a href="mailto:raiane.oliveira404@gmail.com">E-mail</a> or a message on [LinkedIn](https://www.linkedin.com/in/raiane-oliveira-dev/) if you want to chat about this area!<br>
+☎️ I'm always open to feedback and constructive criticism that can help me reach the next level!
 
 <div align="center">
   <a target="_blank" href="https://github.com/raiane-oliveira">
