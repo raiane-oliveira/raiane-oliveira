@@ -23,7 +23,7 @@
 
 I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in the wonderful world of front-end development. If you'd like to chat, share ideas, or collaborate on projects, feel free to reach out:
 
-- 📧 Email: [raiane.oliveira404l@gmail.com](mailto:raiane.oliveira404l@gmail.com)
+- 📧 Email: [raiane.oliveira404@gmail.com](mailto:raiane.oliveira404@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/raiane-oliveira-dev](https://www.linkedin.com/in/raiane-oliveira-dev)
 
 ## Open to Growth
