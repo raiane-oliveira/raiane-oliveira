@@ -5,6 +5,12 @@
 
 👩‍💻 I'm a passionate front-end developer with a knack for turning code into solutions that solve real-world problems. My journey in the world of programming has taught me that every challenge is an opportunity to learn and grow. With a deep love for technology, I'm constantly exploring new ways to create meaningful user experiences.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img height="40" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,git" />
+  </a>
+</p>
+
 ## What I Do
 
 - 🚀 Transforming ideas into interactive and responsive web applications.
@@ -32,13 +38,5 @@ I believe in the power of feedback and continuous improvement. If you have any s
 
 Looking forward to connecting and coding together! 🚀🌟
 
-
-  ***
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=react,ts,tailwind,styledcomponents,nextjs" />
-  </a>
-</p>
   
 ##
