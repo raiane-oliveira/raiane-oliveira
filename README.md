@@ -17,7 +17,7 @@
 - 🧠 Solving problems with elegant, efficient, and maintainable code.
 - 🎨 Crafting visually appealing user interfaces that focus on usability.
 
-***
+##
 
   <div align="center">
   <a target="_blank" href="https://github.com/raiane-oliveira">
