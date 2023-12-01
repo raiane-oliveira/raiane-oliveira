@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents,git" />
+    <img height="40" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,styledcomponents" />
   </a>
 </p>
 
@@ -25,18 +25,17 @@
   <img height="180em" src="https://github-personal-readme-stats.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=16&theme=radical&border_radius=10"/>
 </div>
 
-## Let's Connect!
-
-I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in the wonderful world of front-end development. If you'd like to chat, share ideas, or collaborate on projects, feel free to reach out:
-
-- 📧 Email: [raiane.oliveira404@gmail.com](mailto:raiane.oliveira404@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/raiane-oliveira-dev](https://www.linkedin.com/in/raiane-oliveira-dev)
-
-## Open to Growth
-
-I believe in the power of feedback and continuous improvement. If you have any suggestions, insights, or constructive criticism that can help me become a better developer, I'm all ears! Let's embark on this coding journey together and reach new heights.
-
-Looking forward to connecting and coding together! 🚀🌟
-
-  
 ##
+
+<details>
+  <summary>
+    <h3>
+      <strong>🌐 Let's Connect!</strong>
+    </h3>
+  </summary>
+
+  I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in the wonderful world of front-end development. If you'd like to chat, share ideas, or collaborate on projects, feel free to reach out:
+  
+  - 📧 Email: [raiane.oliveira404@gmail.com](mailto:raiane.oliveira404@gmail.com)
+  - 💼 LinkedIn: [linkedin.com/in/raiane-oliveira-dev](https://www.linkedin.com/in/raiane-oliveira-dev)
+</details>
