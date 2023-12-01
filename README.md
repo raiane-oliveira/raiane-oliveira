@@ -29,9 +29,9 @@
 
 <details>
   <summary>
-    <h3>
+    <h2>
       <strong>🌐 Let's Connect!</strong>
-    </h3>
+    </h2>
   </summary>
 
   I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in the wonderful world of front-end development. If you'd like to chat, share ideas, or collaborate on projects, feel free to reach out:
