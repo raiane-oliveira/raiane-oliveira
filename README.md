@@ -11,11 +11,16 @@
   </a>
 </p>
 
-## What I Do
-
-- 🚀 Transforming ideas into interactive and responsive web applications.
-- 🧠 Solving problems with elegant, efficient, and maintainable code.
-- 🎨 Crafting visually appealing user interfaces that focus on usability.
+<details>
+  <summary>
+    <strong>💻 What I Do</strong>
+  </summary>
+  <br />
+  
+  - 🚀 Transforming ideas into interactive and responsive web applications.
+  - 🧠 Solving problems with elegant, efficient, and maintainable code.
+  - 🎨 Crafting visually appealing user interfaces that focus on usability.
+</details>
 
 ##
 
