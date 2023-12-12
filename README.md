@@ -1,9 +1,18 @@
-# Hey there, I'm Raiane! 👋
 
+
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMzg3MjEsIm5iZiI6MTcwMjMzODQyMSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjExVDIzNDcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkMTdmZDc0OThjMTFiMTViZDk1MmJkZmUwNTFlNzc3NjkxYmU4Y2YwMzY3MzMzOGE1YjhhOTkxMTA3YzYzM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.38p-3Krsz68H6HrPBzEOOQXHxMlPkj-bCPHjbEagGBg" width="100%" height="250" />
+
+---
 > "Experience is the name everyone gives to their mistakes." – Oscar Wilde
 <hr />
 
-👩‍💻 I'm a passionate front-end developer with a knack for turning code into solutions that solve real-world problems. My journey in the world of programming has taught me that every challenge is an opportunity to learn and grow. With a deep love for technology, I'm constantly exploring new ways to create meaningful user experiences.
+<p>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="256" height="256">
+</p>
+
+## Hey there! I'm Raiane! <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMzg3MjEsIm5iZiI6MTcwMjMzODQyMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjExVDIzNDcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4ZmJkMjY3YWVhN2VkNzFkMTMyNWJlZGNmMzhjMjUyY2MwYjIxN2MwZmIyYmJmYTQwMjA4YWE2OTJkY2U3ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DqfXuSzR09-8HsrxdyOt_HJ565sS4ATF8gSIylG7dMg" width="48" />
+
+<img width="24" src="https://private-user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMzg3MjEsIm5iZiI6MTcwMjMzODQyMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzktZTM3OWEzM2EtYjQyOC00Mzg1LWI0NGYtM2RhMTZlN2JhYzlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjExVDIzNDcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxMWE2ODQ2YjQxNDdjYmQyN2FmNWVmYjEzMjJiNGM5ZThmMDMzZTFmZjc3NzAzZDM2NThmYzBhZDg5YWZmOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZZXdyyldE9kuPvBEbUxi7qNXSlyJac4LILcDxijXi14" /> I'm a passionate front-end developer with a knack for turning code into solutions that solve real-world problems. My journey in the world of programming has taught me that every challenge is an opportunity to learn and grow. With a deep love for technology, I'm constantly exploring new ways to create meaningful user experiences.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,25 +31,21 @@
   - 🎨 Crafting visually appealing user interfaces that focus on usability.
 </details>
 
-##
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-  <div align="center">
-  <a target="_blank" href="https://github.com/raiane-oliveira">
-  <img height="180em" src="https://github-personal-readme-stats.vercel.app/api?username=raiane-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-personal-readme-stats.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=16&theme=radical&border_radius=10"/>
+ <a href="https://www.linkedin.com/in/raiane-oliveira-dev">
+   <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="mailto:raiane.oliveira404@gmail.com">
+    <img  align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    
+- 💬 Ask me about anything
+- 💼 Feel free to reach out
+
+<br />
+
+<div align="center">
+  <a target="_blank" href="https://github.com/raiane-oliveira"><img height="180em" src="https://github-personal-readme-stats.vercel.app/api?username=raiane-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/></a> 
+  <a><img height="180em" src="https://github-personal-readme-stats.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=16&theme=radical&border_radius=10"/></a>
 </div>
-
-##
-
-<details>
-  <summary>
-    <h2>
-      <strong>🌐 Let's Connect!</strong>
-    </h2>
-  </summary>
-
-  I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in the wonderful world of front-end development. If you'd like to chat, share ideas, or collaborate on projects, feel free to reach out:
-  
-  - 📧 Email: [raiane.oliveira404@gmail.com](mailto:raiane.oliveira404@gmail.com)
-  - 💼 LinkedIn: [linkedin.com/in/raiane-oliveira-dev](https://www.linkedin.com/in/raiane-oliveira-dev)
-</details>
