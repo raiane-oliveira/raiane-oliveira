@@ -53,11 +53,14 @@
   </summary>
 
   <!--START_SECTION:activity-->
+  <br />
 1. 🚀 Published release [2.2.0](https://github.com/raiane-oliveira/dirstroy/releases/tag/Version) in [raiane-oliveira/dirstroy](https://github.com/raiane-oliveira/dirstroy)
 2. 💪 Opened PR [#187](https://github.com/SouJunior/mentores-frontend/pull/187) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
 3. ❗ Opened issue [#186](https://github.com/SouJunior/mentores-frontend/issues/186) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
 4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
 5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
 <!--END_SECTION:activity-->
+  <br/>
 
+  ![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
 </details>
