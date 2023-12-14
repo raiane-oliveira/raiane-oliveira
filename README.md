@@ -26,6 +26,24 @@
   - 🎨 Crafting visually appealing user interfaces that focus on usability.
 </details>
 
+<details>
+  <summary>
+    <strong>📶 Recent Activities</strong>
+  </summary>
+
+  <!--START_SECTION:activity-->
+  <br />
+  
+  1. 🚀 Published release [2.2.0](https://github.com/raiane-oliveira/dirstroy/releases/tag/Version) in [raiane-oliveira/dirstroy](https://github.com/raiane-oliveira/dirstroy)
+  2. 💪 Opened PR [#187](https://github.com/SouJunior/mentores-frontend/pull/187) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+  3. ❗ Opened issue [#186](https://github.com/SouJunior/mentores-frontend/issues/186) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+  4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+  5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
+  <!--END_SECTION:activity-->
+
+  <br/>
+</details>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
  <a href="https://www.linkedin.com/in/raiane-oliveira-dev">
@@ -44,23 +62,3 @@
   <a target="_blank" href="https://github.com/raiane-oliveira"><img height="180em" src="https://github-personal-readme-stats.vercel.app/api?username=raiane-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/></a> 
   <a><img height="180em" src="https://github-personal-readme-stats.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=16&theme=radical&border_radius=10"/></a>
 </div>
-
----
-
-<details>
-  <summary>
-    <strong>➕ More informations</strong>
-  </summary>
-
-  <!--START_SECTION:activity-->
-  <br />
-1. 🚀 Published release [2.2.0](https://github.com/raiane-oliveira/dirstroy/releases/tag/Version) in [raiane-oliveira/dirstroy](https://github.com/raiane-oliveira/dirstroy)
-2. 💪 Opened PR [#187](https://github.com/SouJunior/mentores-frontend/pull/187) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-3. ❗ Opened issue [#186](https://github.com/SouJunior/mentores-frontend/issues/186) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
-<!--END_SECTION:activity-->
-  <br/>
-
-  ![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
-</details>
