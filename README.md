@@ -33,6 +33,7 @@
   <summary>
     <strong>📶 Recent Activities</strong>
   </summary>
+  <br />
 
   <!--START_SECTION:activity-->
 1. 🚀 Published release [2.2.0](https://github.com/raiane-oliveira/dirstroy/releases/tag/Version) in [raiane-oliveira/dirstroy](https://github.com/raiane-oliveira/dirstroy)
