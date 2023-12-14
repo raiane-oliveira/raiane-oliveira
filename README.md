@@ -53,7 +53,7 @@
   </summary>
 
   #### Roadmap.sh
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Csql" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Creact%2Csql%2Cbackend" alt="roadmap.sh"/></a>
 
   #### Tracking
   <!--START_SECTION:waka-->
