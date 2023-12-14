@@ -7,8 +7,6 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="256" height="256">
 </p>
 
-<img src="https://img.shields.io/badge/I'm%20from-🇧🇷-yellow.svg" title="Brazil" /> <a href="https://github.com/raiane-oliveira/mentores-frontend/commits"><img src="https://badgen.net/github/last-commit/raiane-oliveira/mentores-frontend/" /></a> <a href="https://github.com/raiane-oliveira?tab=followers"><img src="https://img.shields.io/github/followers/raiane-oliveira.svg?style=social&label=Follow&maxAge=2592000" /></a>
-
 <img width="24" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif" /> I'm a passionate front-end developer with a knack for turning code into solutions that solve real-world problems. My journey in programming has taught me that every challenge is an opportunity to learn and grow. I'm constantly exploring new ways to create meaningful user experiences.
 
 <p align="center">
