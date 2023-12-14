@@ -56,7 +56,12 @@
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Csql" alt="roadmap.sh"/></a>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
