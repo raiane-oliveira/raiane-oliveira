@@ -1,4 +1,4 @@
-# Hey there, I'm Raiane! <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMzg3MjEsIm5iZiI6MTcwMjMzODQyMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjExVDIzNDcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4ZmJkMjY3YWVhN2VkNzFkMTMyNWJlZGNmMzhjMjUyY2MwYjIxN2MwZmIyYmJmYTQwMjA4YWE2OTJkY2U3ZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DqfXuSzR09-8HsrxdyOt_HJ565sS4ATF8gSIylG7dMg" width="48" />
+# Hey there, I'm Raiane! <img src="https://media.tenor.com/qJqvgoqhTlgAAAAi/cute-cats.gif" width="48" />
 
 > "Experience is the name everyone gives to their mistakes." – Oscar Wilde
 <hr />
