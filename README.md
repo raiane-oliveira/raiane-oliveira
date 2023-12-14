@@ -41,7 +41,6 @@
   5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
   <!--END_SECTION:activity-->
 
-  <br/>
 </details>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
