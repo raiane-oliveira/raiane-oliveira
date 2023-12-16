@@ -9,7 +9,7 @@
   <img align="right" src="https://github.com/raiane-oliveira/raiane-oliveira/assets/100815627/6f21285c-8f55-4948-8a67-ce69565e47dc" width="350" height="256">
 </p>
 
-<img width="24" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif" /> I'm a passionate front-end developer with a knack for turning code into solutions that solve real-world problems. I'm constantly exploring new ways to create meaningful user experiences.
+<img width="24" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif" /> I'm a passionate software developer with a knack for turning code into solutions that solve real-world problems. I'm constantly exploring new ways to create meaningful user experiences.
 
 <p align="center">
   <a href="https://skillicons.dev">
