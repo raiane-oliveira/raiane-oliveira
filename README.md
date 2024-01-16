@@ -36,11 +36,11 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#190](https://github.com/SouJunior/mentores-frontend/issues/190) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-2. ❗ Opened issue [#189](https://github.com/SouJunior/mentores-frontend/issues/189) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-3. ❗ Opened issue [#188](https://github.com/SouJunior/mentores-frontend/issues/188) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-4. 🎉 Merged PR [#2](https://github.com/raiane-oliveira/api-node-solid-ignite/pull/2) in [raiane-oliveira/api-node-solid-ignite](https://github.com/raiane-oliveira/api-node-solid-ignite)
-5. 💪 Opened PR [#2](https://github.com/raiane-oliveira/api-node-solid-ignite/pull/2) in [raiane-oliveira/api-node-solid-ignite](https://github.com/raiane-oliveira/api-node-solid-ignite)
+1. ❗ Opened issue [#191](https://github.com/SouJunior/mentores-frontend/issues/191) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+2. ❗ Opened issue [#190](https://github.com/SouJunior/mentores-frontend/issues/190) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+3. ❗ Opened issue [#189](https://github.com/SouJunior/mentores-frontend/issues/189) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+4. ❗ Opened issue [#188](https://github.com/SouJunior/mentores-frontend/issues/188) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+5. 🎉 Merged PR [#2](https://github.com/raiane-oliveira/api-node-solid-ignite/pull/2) in [raiane-oliveira/api-node-solid-ignite](https://github.com/raiane-oliveira/api-node-solid-ignite)
   4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
   <!--END_SECTION:activity-->
