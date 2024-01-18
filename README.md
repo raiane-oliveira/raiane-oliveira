@@ -1,4 +1,4 @@
-# Hey there, I'm Raiane! <img src="https://media.tenor.com/qJqvgoqhTlgAAAAi/cute-cats.gif" width="48" />
+# Hey there, I'm Raiane!
 
 > "Experience is the name everyone gives to their mistakes." – Oscar Wilde
 <hr />
