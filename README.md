@@ -59,15 +59,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Total Time: 15 hrs 20 mins
+Total Time: 19 hrs 52 mins
 
-Ruby         6 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   39.59 %
-TypeScript   4 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   32.40 %
-Python       1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Markdown     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JavaScript   45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+TypeScript   9 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.49 %
+Ruby         6 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Python       1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Markdown     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+HTML         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
