@@ -36,11 +36,11 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#149](https://github.com/SouJunior/mentores-frontend/issues/149) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-2. 🔒 Closed issue [#148](https://github.com/SouJunior/mentores-frontend/issues/148) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-3. 🔒 Closed issue [#111](https://github.com/SouJunior/mentores-frontend/issues/111) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-4. 🔒 Closed issue [#126](https://github.com/SouJunior/mentores-frontend/issues/126) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-5. 🔒 Closed issue [#101](https://github.com/SouJunior/mentores-frontend/issues/101) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+1. 🔒 Closed issue [#133](https://github.com/SouJunior/mentores-frontend/issues/133) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+2. 🔒 Closed issue [#149](https://github.com/SouJunior/mentores-frontend/issues/149) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+3. 🔒 Closed issue [#148](https://github.com/SouJunior/mentores-frontend/issues/148) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+4. 🔒 Closed issue [#111](https://github.com/SouJunior/mentores-frontend/issues/111) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+5. 🔒 Closed issue [#126](https://github.com/SouJunior/mentores-frontend/issues/126) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
   <!--END_SECTION:activity-->
