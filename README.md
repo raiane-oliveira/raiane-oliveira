@@ -36,11 +36,11 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/SouJunior/mentores-frontend/pull/198) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-2. ❗ Opened issue [#197](https://github.com/SouJunior/mentores-frontend/issues/197) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-3. 💪 Opened PR [#196](https://github.com/SouJunior/mentores-frontend/pull/196) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-4. ❗ Opened issue [#195](https://github.com/SouJunior/mentores-frontend/issues/195) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-5. 🔒 Closed issue [#133](https://github.com/SouJunior/mentores-frontend/issues/133) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+1. 💪 Opened PR [#200](https://github.com/SouJunior/mentores-frontend/pull/200) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+2. ❗ Opened issue [#199](https://github.com/SouJunior/mentores-frontend/issues/199) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+3. 💪 Opened PR [#198](https://github.com/SouJunior/mentores-frontend/pull/198) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+4. ❗ Opened issue [#197](https://github.com/SouJunior/mentores-frontend/issues/197) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+5. 💪 Opened PR [#196](https://github.com/SouJunior/mentores-frontend/pull/196) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
   <!--END_SECTION:activity-->
