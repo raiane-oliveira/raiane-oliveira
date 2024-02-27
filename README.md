@@ -36,11 +36,11 @@
   <br />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/SouJunior/mentores-frontend/pull/198#issuecomment-1961267523) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-2. 🗣 Commented on [#198](https://github.com/SouJunior/mentores-frontend/pull/198#issuecomment-1959806096) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-3. 💪 Opened PR [#4](https://github.com/raiane-oliveira/mentores-frontend/pull/4) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
-4. ❌ Closed PR [#200](https://github.com/SouJunior/mentores-frontend/pull/200) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-5. 💪 Opened PR [#200](https://github.com/SouJunior/mentores-frontend/pull/200) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+1. 🎉 Merged PR [#4](https://github.com/raiane-oliveira/mentores-frontend/pull/4) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
+2. 🗣 Commented on [#198](https://github.com/SouJunior/mentores-frontend/pull/198#issuecomment-1961267523) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+3. 🗣 Commented on [#198](https://github.com/SouJunior/mentores-frontend/pull/198#issuecomment-1959806096) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
+4. 💪 Opened PR [#4](https://github.com/raiane-oliveira/mentores-frontend/pull/4) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
+5. ❌ Closed PR [#200](https://github.com/SouJunior/mentores-frontend/pull/200) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
   5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
   <!--END_SECTION:activity-->
