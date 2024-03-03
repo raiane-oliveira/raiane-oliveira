@@ -52,10 +52,7 @@
     <strong>📈 Statistics</strong>
   </summary>
 
-  #### Roadmap.sh
-  <a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Creact%2Csql%2Cbackend" alt="roadmap.sh"/></a>
-
-  #### Tracking
+  #### Coding track
   <!--START_SECTION:waka-->
 
 ```txt
@@ -71,6 +68,9 @@ Bash         20 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+  #### Roadmap.sh
+  <a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Creact%2Csql%2Cbackend" alt="roadmap.sh"/></a>
 </details>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
