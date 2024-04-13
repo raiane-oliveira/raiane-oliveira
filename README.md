@@ -56,15 +56,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Total Time: 56 hrs 44 mins
+Total Time: 54 hrs 51 mins
 
-TypeScript    53 hrs 16 mins  ███████████████████████▒░   93.45 %
-Markdown      50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-JSON          43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Prisma        18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript    52 hrs 6 mins   ███████████████████████▓░   94.54 %
+Markdown      46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JSON          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Bash          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Prisma        18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
