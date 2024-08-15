@@ -9,7 +9,8 @@
   <img align="right" src="https://github.com/raiane-oliveira/raiane-oliveira/assets/100815627/6f21285c-8f55-4948-8a67-ce69565e47dc" width="350" height="256">
 </p>
 
-<img width="24" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif" /> I'm a passionate software developer focused on front-end engineer with a knack for turning code into solutions that solve real-world problems. I'm constantly exploring new ways to create meaningful user experiences.
+<!-- <img width="24" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif" /> --> 
+I'm a passionate software developer focused on front-end engineer with a knack for turning code into solutions that solve real-world problems. I'm constantly exploring new ways to create meaningful user experiences.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -69,7 +70,8 @@ No activity tracked
   <a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Creact%2Csql%2Cbackend" alt="roadmap.sh"/></a>
 </details>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+##
+<!--<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />-->
 
  <a href="https://www.linkedin.com/in/raiane-oliveira-dev">
    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
