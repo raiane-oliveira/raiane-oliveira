@@ -10,7 +10,7 @@
 </p>
 
 <!-- <img width="24" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif" /> --> 
-I'm a passionate software developer focused on front-end engineer with a knack for turning code into solutions that solve real-world problems. I'm constantly exploring new ways to create meaningful user experiences.
+I'm a passionate software developer with a knack for turning code into solutions that solve real-world problems. I'm constantly exploring new ways to create meaningful user experiences.
 
 <p align="center">
   <a href="https://skillicons.dev">
