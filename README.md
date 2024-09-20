@@ -57,15 +57,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Total Time: 31 hrs 6 mins
+Total Time: 29 hrs 33 mins
 
-Python        24 hrs 21 mins  ███████████████████▓░░░░░   78.30 %
-TypeScript    6 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-JSON          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-YAML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JavaScript    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python        22 hrs 48 mins  ███████████████████▒░░░░░   77.16 %
+TypeScript    6 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+YAML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
