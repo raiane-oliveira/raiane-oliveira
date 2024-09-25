@@ -89,6 +89,6 @@ Bash   0 secs          ░░░░░░░░░░░░░░░░░░░
 <br />
 
 <div align="center">
-  <a target="_blank" href="https://github.com/raiane-oliveira"><img height="180em" src="https://github-personal-readme-stats.vercel.app/api?username=raiane-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/></a> 
-  <a><img height="180em" src="https://github-personal-readme-stats.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=16&theme=radical&border_radius=10"/></a>
+  <a target="_blank" href="https://github.com/raiane-oliveira"><img height="180em" src="https://github-readme-stats-delta-amber.vercel.app/api?username=raiane-oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/></a> 
+  <a><img height="180em" src="https://github-readme-stats-delta-amber.vercel.app/api/top-langs/?username=raiane-oliveira&layout=compact&langs_count=8&theme=radical&border_radius=10"/></a>
 </div>
