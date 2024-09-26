@@ -57,14 +57,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Total Time: 1 hr 47 mins
+Total Time: 1 hr 50 mins
 
-CSV    1 hr 16 mins    █████████████████▓░░░░░░░   71.13 %
-Java   26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-sh     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+CSV      1 hr 16 mins    █████████████████▒░░░░░░░   69.20 %
+Java     26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+sh       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Python   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
