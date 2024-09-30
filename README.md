@@ -57,7 +57,7 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2024 - To: 28 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
 Total Time: 14 hrs 26 mins
 
