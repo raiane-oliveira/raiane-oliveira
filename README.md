@@ -70,7 +70,7 @@ JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
   #### Roadmap.sh
-  <a href="https://roadmap.sh" target="_blank"><img src="https://api.roadmap.sh/v1-badge/wide/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Creact%2Csql%2Cbackend" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Cbackend%2Cnodejs%2Creact" alt="roadmap.sh"/></a>
 </details>
 
 ##
