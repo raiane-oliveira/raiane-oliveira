@@ -1,5 +1,3 @@
-# Hey there, I'm Raiane!
-
 > "Experience is the name everyone gives to their mistakes." – Oscar Wilde
 <hr />
 
