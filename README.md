@@ -65,9 +65,7 @@ conf         14 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-  #### Roadmap.sh
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/646911b3410780a6d9ba2da2?variant=dark&roadmaps=frontend%2Cbackend%2Cnodejs%2Creact" alt="roadmap.sh"/></a>
+  
 </details>
 
 ##
