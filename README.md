@@ -55,11 +55,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 21 December 2024 - To: 28 December 2024
 
-Total Time: 0 secs
+Total Time: 4 hrs 14 mins
 
-No activity tracked
+ghostty      1 hr 36 mins    █████████▒░░░░░░░░░░░░░░░   37.74 %
+TOML         1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.18 %
+TypeScript   42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+fish         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Lua          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
