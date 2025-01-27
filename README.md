@@ -12,7 +12,7 @@ I'm a passionate software developer with a knack for turning code into solutions
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img height="40" src="https://skillicons.dev/icons?i=ts,react,nodejs,js,postgres,linux" />
+    <img height="40" src="https://skillicons.dev/icons?i=ts,react,nodejs,java,spring,postgres,linux" />
   </a>
 </p>
 
