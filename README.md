@@ -55,15 +55,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Total Time: 36 hrs 2 mins
+Total Time: 28 hrs 25 mins
 
-Java                  23 hrs 16 mins  ████████████████░░░░░░░░░   64.54 %
-TypeScript            3 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Markdown              2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Lua                   2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Text                  1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Java                  16 hrs 6 mins   ██████████████░░░░░░░░░░░   56.65 %
+TypeScript            3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Markdown              2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+Lua                   2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Text                  1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 ```
 
 <!--END_SECTION:waka-->
