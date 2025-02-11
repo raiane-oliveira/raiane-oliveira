@@ -30,24 +30,6 @@ I'm a passionate software developer with a knack for turning code into solutions
 
 <details>
   <summary>
-    <strong>📶 Recent Activities</strong>
-  </summary>
-  <br />
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/raiane-oliveira/loja-accenture-summer-academy/pull/1) in [raiane-oliveira/loja-accenture-summer-academy](https://github.com/raiane-oliveira/loja-accenture-summer-academy)
-2. 💪 Opened PR [#187](https://github.com/SouJunior/vagas-api/pull/187) in [SouJunior/vagas-api](https://github.com/SouJunior/vagas-api)
-3. 🗣 Commented on [#169](https://github.com/SouJunior/mentores-frontend/issues/169#issuecomment-1981547160) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-4. 🎉 Merged PR [#4](https://github.com/raiane-oliveira/mentores-frontend/pull/4) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
-5. 🗣 Commented on [#198](https://github.com/SouJunior/mentores-frontend/pull/198#issuecomment-1961267523) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-  4. 💪 Opened PR [#185](https://github.com/SouJunior/mentores-frontend/pull/185) in [SouJunior/mentores-frontend](https://github.com/SouJunior/mentores-frontend)
-  5. 🎉 Merged PR [#3](https://github.com/raiane-oliveira/mentores-frontend/pull/3) in [raiane-oliveira/mentores-frontend](https://github.com/raiane-oliveira/mentores-frontend)
-  <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>
     <strong>📈 Statistics</strong>
   </summary>
 
