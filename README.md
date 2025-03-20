@@ -37,15 +37,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2025 - To: 18 March 2025
+From: 12 March 2025 - To: 19 March 2025
 
-Total Time: 35 hrs 46 mins
+Total Time: 28 hrs 34 mins
 
-CSS           11 hrs 52 mins  ████████▒░░░░░░░░░░░░░░░░   33.05 %
-HTML          10 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-TypeScript    6 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-JavaScript    6 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Image (svg)   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+CSS           11 hrs 8 mins   █████████▓░░░░░░░░░░░░░░░   38.84 %
+HTML          10 hrs 4 mins   ████████▓░░░░░░░░░░░░░░░░   35.09 %
+JavaScript    6 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+TypeScript    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Image (svg)   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
