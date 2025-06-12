@@ -37,15 +37,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Total Time: 9 hrs 8 mins
+Total Time: 12 hrs 19 mins
 
-Java              5 hrs 57 mins   ████████████████▒░░░░░░░░   65.09 %
-Markdown          1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-Java Properties   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-YAML              46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-XML               13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Java              5 hrs 57 mins   ████████████░░░░░░░░░░░░░   47.98 %
+JavaScript        1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Markdown          1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Java Properties   58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+HTML              57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
 ```
 
 <!--END_SECTION:waka-->
