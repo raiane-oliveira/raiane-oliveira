@@ -37,14 +37,14 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2025 - To: 11 August 2025
+From: 05 August 2025 - To: 12 August 2025
 
-Total Time: 23 hrs 13 mins
+Total Time: 23 hrs 8 mins
 
-TypeScript        15 hrs 41 mins  █████████████████░░░░░░░░   67.58 %
-Java              4 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-Docker            1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-YAML              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+TypeScript   20 hrs 14 mins  ██████████████████████░░░   87.48 %
+Docker       1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
