@@ -37,15 +37,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 45 mins
+Total Time: 44 mins
 
-Python      30 mins         ████████████████▓░░░░░░░░   66.23 %
-YAML        12 mins         ███████░░░░░░░░░░░░░░░░░░   27.94 %
-gitignore   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-pem         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python      30 mins         ████████████████▓░░░░░░░░   66.74 %
+YAML        12 mins         ███████░░░░░░░░░░░░░░░░░░   28.16 %
+gitignore   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
