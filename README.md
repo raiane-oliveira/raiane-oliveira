@@ -37,7 +37,7 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2025 - To: 15 December 2025
+From: 09 December 2025 - To: 16 December 2025
 
 Total Time: 15 mins
 
