@@ -37,14 +37,11 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Total Time: 12 mins
+Total Time: 0 secs
 
-Java         10 mins         █████████████████████▓░░░   86.04 %
-Vim Script   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
