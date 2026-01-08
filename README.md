@@ -37,14 +37,14 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 49 mins
+Total Time: 4 hrs 42 mins
 
-YAML   39 mins         ███████████████████▓░░░░░   78.27 %
-XML    8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Java   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-fish   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript   3 hrs 48 mins   ████████████████████▒░░░░   80.69 %
+YAML         39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+XML          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Java         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
