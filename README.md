@@ -37,11 +37,13 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Total Time: 0 secs
+Total Time: 10 mins
 
-No activity tracked
+Go         7 mins          █████████████████▓░░░░░░░   71.10 %
+Markdown   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
+Lua        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 ```
 
 <!--END_SECTION:waka-->
