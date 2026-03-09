@@ -37,14 +37,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2026 - To: 07 March 2026
+From: 01 March 2026 - To: 08 March 2026
 
-Total Time: 1 hr 29 mins
+Total Time: 5 hrs 33 mins
 
-Markdown     28 mins               ████████░░░░░░░░░░░░░░░░░   32.00 %
-HTML         27 mins               ███████▓░░░░░░░░░░░░░░░░░   30.99 %
-JavaScript   9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-conf         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+kitty        1 hr 16 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+tmux         1 hr 9 mins           █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+Markdown     32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+TOML         27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+HTML         27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
 ```
 
 <!--END_SECTION:waka-->
