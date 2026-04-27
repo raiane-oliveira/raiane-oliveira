@@ -37,13 +37,12 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2026 - To: 25 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Total Time: 1 hr 6 mins
+Total Time: 56 mins
 
-SQL     56 mins               █████████████████████░░░░   84.33 %
-YAML    10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+SQL    56 mins               █████████████████████████   99.62 %
+YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
