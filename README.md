@@ -37,14 +37,14 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2026 - To: 09 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
-Total Time: 25 hrs 4 mins
+Total Time: 21 hrs 14 mins
 
-hyprlang       8 hrs 24 mins         ████████▒░░░░░░░░░░░░░░░░   33.28 %
-TypeScript     2 hrs 16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-CSS            1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-rasi           1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+hyprlang       4 hrs 56 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+TypeScript     4 hrs 4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+rasi           1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+CSS            1 hr 2 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
