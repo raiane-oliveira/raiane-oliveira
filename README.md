@@ -37,15 +37,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 04 August 2026 - To: 11 August 2026
 
-Total Time: 6 hrs 16 mins
+Total Time: 6 hrs 9 mins
 
-Markdown          2 hrs 25 mins         █████████▓░░░░░░░░░░░░░░░   38.49 %
-JavaScript        2 hrs 17 mins         █████████░░░░░░░░░░░░░░░░   36.29 %
-Java              1 hr 2 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-Lua               16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-kitty             3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Markdown          2 hrs 25 mins         █████████▓░░░░░░░░░░░░░░░   39.28 %
+JavaScript        2 hrs 17 mins         █████████▒░░░░░░░░░░░░░░░   37.04 %
+Java              1 hr 2 mins           ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+Lua               14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+kitty             3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
