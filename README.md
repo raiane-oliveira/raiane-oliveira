@@ -37,15 +37,15 @@ I'm a passionate software developer with a knack for turning code into solutions
   <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-Total Time: 7 hrs 7 mins
+Total Time: 6 hrs 48 mins
 
-Java              3 hrs 42 mins         █████████████░░░░░░░░░░░░   52.00 %
-Gherkin           1 hr 16 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-Java Properties   45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Markdown          24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-JavaScript        21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Java              3 hrs 42 mins         █████████████▓░░░░░░░░░░░   54.44 %
+Gherkin           1 hr 18 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+Java Properties   45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Markdown          24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+TypeScript        13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
